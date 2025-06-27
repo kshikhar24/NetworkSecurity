@@ -2,9 +2,8 @@ python-dotenv
 pandas
 numpy
 pymongo
-pymongo[srv]
-
-pymongo
 certifi
+pymongo[srv]
+scikit-learn
 
 # -e .
